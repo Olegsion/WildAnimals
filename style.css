@@ -1,0 +1,7 @@
+.body {
+  background-color: rgb(255, 240, 222);
+}
+
+img:hover {
+  transform: scale(5%);
+}
